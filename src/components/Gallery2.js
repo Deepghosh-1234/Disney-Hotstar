@@ -13,7 +13,7 @@ const Gallery2 = (props)=> {
                 </Wrap>
                 <Wrap>
                     <Link to="/">
-                        <img src = "https://forums.imore.com/attachments/wallpapers-ringtones/80900d1430352859t-avengers-age-ultron-retina-movie-wallpaper-avengers-age-ultron-iron-man-new-wallpaper.jpg" alt = "" />
+                        <img src = "https://imgix.bustle.com/uploads/image/2020/6/17/9d67f705-d6cb-4e44-a98d-37c21108cef5-tony-iron-man.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg" alt = "" />
                     </Link>
                 </Wrap>
                 <Wrap>
